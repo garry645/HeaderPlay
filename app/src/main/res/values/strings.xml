@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HeaderPlay</string>
+    <string name="games">Games</string>
+    <string name="tournaments">Tournaments</string>
+    <string name="become_a_dev">Become a Dev</string>
+    <string name="apply_now">apply now</string>
+    <string name="logout">logout</string>
+    <string name="open" />
+    <string name="close" />
+</resources>
